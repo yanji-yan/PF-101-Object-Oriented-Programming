@@ -3,7 +3,7 @@ public class L1Attributes {
     String lname = "Dollentas";
     String course = "BS Information Technology";
     String major = "Instructional Systems Technology";
-    int age = 18;
+    int age = 19;
 
     public static void main(String[] args) {
         L1Attributes myObj = new L1Attributes();
